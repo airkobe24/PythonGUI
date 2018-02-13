@@ -16,7 +16,7 @@ class Frame1(wx.Frame):
         self.label1.SetForegroundColour("blue")
         self.label1.SetFont(font)
         #self.label1.SetBackgroundColour("black")
-        self.label2.SetForegroundColour("red")
+        self.label2.SetForegroundColour("black")
         self.label2.SetFont(font)
         #self.label2.SetBackgroundColour("black")
         #sizer.Add(self.text1,0,wx.ALIGN_TOP | wx.EXPAND)
